@@ -1,0 +1,15 @@
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\bin\Debug\net6.0\Example1_HiConsole.exe
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\bin\Debug\net6.0\Example1_HiConsole.deps.json
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\bin\Debug\net6.0\Example1_HiConsole.runtimeconfig.json
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\bin\Debug\net6.0\Example1_HiConsole.dll
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\bin\Debug\net6.0\Example1_HiConsole.pdb
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\obj\Debug\net6.0\Example1_HiConsole.csproj.AssemblyReference.cache
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\obj\Debug\net6.0\Example1_HiConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\obj\Debug\net6.0\Example1_HiConsole.AssemblyInfoInputs.cache
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\obj\Debug\net6.0\Example1_HiConsole.AssemblyInfo.cs
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\obj\Debug\net6.0\Example1_HiConsole.csproj.CoreCompileInputs.cache
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\obj\Debug\net6.0\Example1_HiConsole.dll
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\obj\Debug\net6.0\refint\Example1_HiConsole.dll
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\obj\Debug\net6.0\Example1_HiConsole.pdb
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\obj\Debug\net6.0\Example1_HiConsole.genruntimeconfig.cache
+C:\Users\74565г\Desktop\EXAMPLE\Example1_HiConsole\obj\Debug\net6.0\ref\Example1_HiConsole.dll
